@@ -36,4 +36,4 @@ Digital Logic • Verilog/RTL • Embedded Systems • Computer Architecture •
 
 ### 🔗 Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL) • [ResearchGate](YOUR_RESEARCHGATE_URL)
+[LinkedIn](https://www.linkedin.com/in/sam-haendell-thosiac/) • [Portfolio](https://sam-thosiac-portfolio.vercel.app/) • [ResearchGate](https://www.researchgate.net/profile/Sam-Haendell-Thosiac)
